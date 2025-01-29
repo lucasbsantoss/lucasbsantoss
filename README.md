@@ -72,8 +72,8 @@ Além de codificar, sou entusiasta de melhorias contínuas e adoro aprender nova
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="PostgreSQL" 
+    title="PostgreSQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
@@ -105,7 +105,7 @@ Além de codificar, sou entusiasta de melhorias contínuas e adoro aprender nova
 <img 
     align="left" 
     alt="GitHub" 
-    title="Git"
+    title="GitHub"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" 
@@ -113,7 +113,7 @@ Além de codificar, sou entusiasta de melhorias contínuas e adoro aprender nova
 <img 
     align="left" 
     alt="VsCode" 
-    title="Git"
+    title="VsCode"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
@@ -129,7 +129,7 @@ Além de codificar, sou entusiasta de melhorias contínuas e adoro aprender nova
 <img 
     align="left" 
     alt="NodeJS" 
-    title="Python"
+    title="NodeJS"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
@@ -137,7 +137,7 @@ Além de codificar, sou entusiasta de melhorias contínuas e adoro aprender nova
 <img 
     align="left" 
     alt="MySQL" 
-    title="Python"
+    title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
@@ -145,7 +145,7 @@ Além de codificar, sou entusiasta de melhorias contínuas e adoro aprender nova
 <img 
     align="left" 
     alt="Lua" 
-    title="Python"
+    title="Lua"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" 

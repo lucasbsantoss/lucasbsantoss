@@ -104,6 +104,22 @@ Além de codificar, sou entusiasta de melhorias contínuas e adoro aprender nova
 />
 <img 
     align="left" 
+    alt="GitHub" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="VsCode" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 

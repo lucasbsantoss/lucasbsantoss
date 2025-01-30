@@ -161,7 +161,7 @@ Além de codificar, sou entusiasta de melhorias contínuas e adoro aprender nova
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 10px; margin-bottom: 3%" 
     src="https://github-readme-stats.vercel.app/api?username=lucasbsantoss&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
   />
 

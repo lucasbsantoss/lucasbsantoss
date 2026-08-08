@@ -1,6 +1,6 @@
 # 💻 Lucas Santos
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Back-End`**
 
 Me chamo Lucas Barbosa dos Santos, tenho 21 anos e sou natural de Minas Gerais, sou um desenvolvedor apaixonado por tecnologia e inovação, com experiência em desenvolvimento front-end e back-end, especialmente utilizando JavaScript, PostgreSQL, Python e soluções baseadas em cloud. 
 
